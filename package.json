@@ -2,7 +2,7 @@
   "author": "Anatoliy Chakkaev <rpm1602@gmail.com>, modified by @yawetse, @dsiu, @icaliman",
   "name": "co-passport",
   "description": "PassportJS integrated with CompoundJS",
-  "version": "0.0.7-4",
+  "version": "0.0.7-5",
   "repository": {
     "type": "git",
     "url": "git@github.com:icaliman/co-passport.git"
